@@ -1,0 +1,15 @@
+{
+  "name": "fem-css-foundations",
+  "version": "1.0.0",
+  "description": "[![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)][fem]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eduardo Vazquez <Eduardo.Vazquez@seattlecolleges.edu>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "3.2.5"
+  }
+}
