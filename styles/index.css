@@ -1,11 +1,1 @@
-body {
-  background-color: #ff7b54;
-  color: #ffffff;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
-  font-family: "Inter", sans-serif;
-  font-weight: bold;
-}
+@mport './base.css';
